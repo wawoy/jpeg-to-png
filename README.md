@@ -1,4 +1,4 @@
-# [Your Python Program Name]
+# [jpeg-to-png]
 
 [Brief description of what your program does]
 
