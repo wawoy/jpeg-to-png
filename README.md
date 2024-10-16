@@ -47,6 +47,9 @@
 - Python 3.x
 - [List any other libraries or frameworks your program uses]
 
+
+# Austhor 
+## Danni Shiloh Dianne Menil
 ## Disclaimer
 
 [Your disclaimer text here. This could include information about the program's intended use, any potential risks, or legal information.]
