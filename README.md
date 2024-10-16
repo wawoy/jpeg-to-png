@@ -50,6 +50,10 @@
 
 # Author 
 ## Danni Shiloh Dianne Menil
+## 16 years old
+## September 25,2008
+## Northwestern Agusan Colleges 
+
 ## Disclaimer
 
 [Your disclaimer text here. This could include information about the program's intended use, any potential risks, or legal information.]
