@@ -48,7 +48,7 @@
 - [List any other libraries or frameworks your program uses]
 
 
-# Austhor 
+# Author 
 ## Danni Shiloh Dianne Menil
 ## Disclaimer
 
